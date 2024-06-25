@@ -1,0 +1,31 @@
+{
+  "id": "yaisoulas-book-of-spells",
+  "title": "Yaisoula's Book of Spells",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Yaisoula",
+      "discord": "bazzleberry",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/yaisoula",
+  "packs": [
+    {
+      "name": "yaisoulas-book-of-spells",
+      "label": "Yaisoula's Book of Spells",
+      "path": "packs/yaisoulas-book-of-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
